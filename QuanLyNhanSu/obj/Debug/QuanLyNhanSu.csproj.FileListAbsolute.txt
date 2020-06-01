@@ -1,0 +1,2 @@
+C:\Users\admin\Desktop\Ky 6\Thuc tap Nhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
