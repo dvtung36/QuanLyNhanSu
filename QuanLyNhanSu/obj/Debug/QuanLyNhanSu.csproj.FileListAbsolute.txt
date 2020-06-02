@@ -1,2 +1,16 @@
 C:\Users\admin\Desktop\Ky 6\Thuc tap Nhom\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
 D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.dll
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.xml
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThanNhan.FormQLThanNhan.resources
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\GitHub\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DuAn.FormQLDuAn.resources
